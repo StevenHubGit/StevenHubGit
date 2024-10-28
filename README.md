@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @StevenHubGit
-- 👀 I’m interested in Software, Web, Mobile, and Game Development with all their aspects (ex: Graphic/Design, Database, Coding, etc.)
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Projects of any kind from small to large
-- 📫 How to reach me is via email
+- Creating solutions that are user-friendly, visually appealing, and take care of heavy duties/actions for users is my go to
 
 <!---
 StevenHubGit/StevenHubGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
